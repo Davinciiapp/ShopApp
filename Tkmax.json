@@ -18,12 +18,12 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Start TKmaxx",
-	"BUTTON_NAME_2": "Begin Shopping",
+	"BUTTON_NAME_1": "Hi TKmaxx",
+	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "https://www.tkmaxx.com/",
+	"URL" : "https://www.hespress.com/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":false
+	"isAdsActivated2":true
 
 }
