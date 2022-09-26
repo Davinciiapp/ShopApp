@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-8697844878482400/8426301917",
-	"admob_inter":"ca-app-pub-8697844878482400/5800138612",
+	"admob_banner":"ca-app-pub-8697844878482426/5697278413",
+	"admob_inter":"ca-app-pub-8697844878482426/7600305458",
 
 	"APP_KEY": "10vc39000",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "TKmaxx Store",
 	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "https://www.tkxx.com/uk/en/",
+	"URL" : "https://www.tkmaxx.com/uk/en/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":false
