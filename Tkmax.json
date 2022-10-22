@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-8697844878482426/6291255886",
-	"admob_inter":"ca-app-pub-8697844878482426/3473520851",
+	"admob_banner":"ca-app-pub-8697844878482426/6992596483",
+	"admob_inter":"ca-app-pub-8697844878482426/8114106467",
 
 	"APP_KEY": "10vc39000",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -24,6 +24,6 @@
 	"URL" : "https://www.tkmaxx.com/uk/en/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":true
+	"isAdsActivated2":false
 
 }
