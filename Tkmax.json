@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-8697844878482426/6992596483",
-	"admob_inter":"ca-app-pub-8697844878482426/8114106467",
+	"admob_banner":"ca-app-pub-2297821541220909/7505400676",
+	"admob_inter":"ca-app-pub-2297821541220909/7955196501",
 
 	"APP_KEY": "10vc39000",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "TKmaxx Store",
 	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "sorry , Site is Under Maintenance",
+	"URL" : "https://www.tkmaxx.com/uk/en/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":false
